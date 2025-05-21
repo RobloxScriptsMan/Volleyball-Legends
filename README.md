@@ -6,7 +6,7 @@ Here is a complete promotional README article for your **Volleyball Legends Scri
 
 Ready to crush your opponents and rule the volleyball court? The **Volleyball Legends Script** is your ultimate game-changer for *Volleyball Legends* on Roblox. With free, keyless access and an arsenal of elite tools, you’ll outplay, outsmart, and outscore anyone who dares to challenge you. It’s time to take your volleyball gaming experience to the next level!
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Volleyball-Legends/blob/main/volleyball%20legends.png)
 
 ---
 
